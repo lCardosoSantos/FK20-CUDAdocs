@@ -1,0 +1,4 @@
+<map id="init" name="init">
+<area shape="rect" id="node1" title="initialization" alt="" coords="5,5,48,32"/>
+<area shape="rect" id="node2" href="$test_8cu.html#aac77414fbb8e0eda3f63b1297dede600" title="Sets a global variable to true if the STDOUT is a terminal. Needs to be done like so because while a ..." alt="" coords="96,5,164,32"/>
+</map>

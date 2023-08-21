@@ -1,0 +1,4 @@
+<map id="g1p_scale" name="g1p_scale">
+<area shape="rect" id="node1" title="Scale the coordinates of a projective point. This operation multiplies each coordinate of p by s: (x,..." alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node2" href="$fp_8cuh.html#a9f82a12248e7c53ac9d166e25e083bba" title="Multiplies two Fp residues x and y, stores in z." alt="" coords="140,5,207,32"/>
+</map>

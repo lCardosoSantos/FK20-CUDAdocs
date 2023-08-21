@@ -1,0 +1,8 @@
+<map id="fp_x3" name="fp_x3">
+<area shape="rect" id="node1" title="Multiplies x by 3 and stores the result into z." alt="" coords="281,81,340,108"/>
+<area shape="rect" id="node2" href="$fptest__add_8cu.html#abfc772410295adcd309501a61369756c" title="Test for addition in Fp." alt="" coords="126,5,215,32"/>
+<area shape="rect" id="node4" href="$fptest__mulconst_8cu.html#a9cf3b3ea99e2b90e54dae275f3bf9424" title="Test self consistency in multiplication by constant:" alt="" coords="108,56,233,83"/>
+<area shape="rect" id="node5" href="$fptest__sub_8cu.html#aafc8d0db47deda034734d2a2020f4ada" title="Test for subtraction in Fp." alt="" coords="127,107,215,133"/>
+<area shape="rect" id="node6" href="$g1_8cuh.html#a738cb164cdffd441d2aa86d5329cd0bc" title="G1 point doubling, with write back: p=2*p." alt="" coords="134,157,207,184"/>
+<area shape="rect" id="node3" href="$fptest_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Run tests on Fp functions." alt="" coords="5,56,60,83"/>
+</map>

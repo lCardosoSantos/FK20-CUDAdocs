@@ -1,0 +1,4 @@
+<map id="fk20_poly2h_fft_512" name="fk20_poly2h_fft_512">
+<area shape="rect" id="node1" title="Test for fk20_poly2h_fft: polynomial &#45;&gt; h_fft." alt="" coords="108,5,263,32"/>
+<area shape="rect" id="node2" href="$fk20__512test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Executes a many&#45;row tests on FK20. Behavior is similar to fk20test.cu but using many GPU blocks,..." alt="" coords="5,5,60,32"/>
+</map>

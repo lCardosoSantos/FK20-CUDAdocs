@@ -1,0 +1,5 @@
+<map id="FpTestMul" name="FpTestMul">
+<area shape="rect" id="node1" title="Multiplication test, comparing with the native uint64_t multiplication." alt="" coords="5,31,93,57"/>
+<area shape="rect" id="node2" href="$fp_8cu.html#a9f39806f63fc829f70443320f4550a96" title="Converts uint64_t[6] to fp_t. After this operation, z represents x mod p." alt="" coords="141,5,257,32"/>
+<area shape="rect" id="node3" href="$fp_8cuh.html#a9f82a12248e7c53ac9d166e25e083bba" title="Multiplies two Fp residues x and y, stores in z." alt="" coords="166,56,233,83"/>
+</map>

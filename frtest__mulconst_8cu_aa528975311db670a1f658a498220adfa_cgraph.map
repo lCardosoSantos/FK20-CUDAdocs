@@ -1,0 +1,16 @@
+<map id="FrTestMulConst" name="FrTestMulConst">
+<area shape="rect" id="node1" title="Test multiply by constant on Fr:" alt="" coords="5,233,127,260"/>
+<area shape="rect" id="node2" href="$fr_8cuh.html#aaeef506ae3eb09b0586eb48e9c7d77ad" title="Computes the sum of two residues x and z modulo r and stores it in z. Device only function." alt="" coords="175,5,237,32"/>
+<area shape="rect" id="node3" href="$fr_8cuh.html#a8abf9d8ad4b633144fcc0c6956d14056" title="Copy from x into z." alt="" coords="529,171,591,197"/>
+<area shape="rect" id="node4" href="$fr_8cuh.html#a4f11be4124fc653c718d01acc42cf7f2" title="Compares two fr_t residues." alt="" coords="175,132,237,159"/>
+<area shape="rect" id="node9" href="$fr_8cu.html#a48d3ace037073f6d394152bee7f40b71" title="prints the canonical representation of x to STDOUT." alt="" coords="393,259,462,285"/>
+<area shape="rect" id="node10" href="$fr_8cuh.html#a1e404d0dd86d479854d2ad47f49f7f9f" title="Multiply the residue mod r z by 12 with weak reduction." alt="" coords="175,233,237,260"/>
+<area shape="rect" id="node11" href="$fr_8cuh.html#a4485604279abcb4d54e39d656cb41439" title="Multiply z by 2, and stores in z, with weak reduction." alt="" coords="179,284,233,311"/>
+<area shape="rect" id="node12" href="$fr_8cuh.html#a6a2b0ab376b64fb53b8e27d6c1109c15" title="Multiply z by 3, and stores in z, with weak reduction." alt="" coords="179,335,233,361"/>
+<area shape="rect" id="node13" href="$fr_8cuh.html#a22ed0336bd87e463b99e9414b037a611" title="Multiply z by 4, and stores in z, with weak reduction." alt="" coords="179,385,233,412"/>
+<area shape="rect" id="node14" href="$fr_8cuh.html#a4e17bb02d9a984bd5cbc4b8eb95056f7" title="Multiply z by 8, and stores in z, with weak reduction." alt="" coords="179,436,233,463"/>
+<area shape="rect" id="node5" href="$fr_8cuh.html#a4e45802fc36909ab3c8a71f662689cfa" title="Compares two residues modulo r." alt="" coords="285,132,340,159"/>
+<area shape="rect" id="node6" href="$fr_8cuh.html#a78b8df6518ee14cdf2cdc025abf902fa" title="Checks if the residue x modulo f is congruent to zero." alt="" coords="388,208,467,235"/>
+<area shape="rect" id="node8" href="$fr_8cuh.html#a06643f48ada0bf9fa0a1bb1e605def94" title="Calculates the difference of two residues modulo p and stores it into z." alt="" coords="396,107,459,133"/>
+<area shape="rect" id="node7" href="$fr_8cuh.html#aa53ac2a9b28c7f128a9ee8e106abcf3c" title="Reduced the value in fr_t to the field modulus." alt="" coords="515,233,605,260"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="g1p_add" name="g1p_add">
+<area shape="rect" id="node1" title="Computes the sum of two points q into p, using projective coordinates. and stores in p." alt="" coords="191,31,268,57"/>
+<area shape="rect" id="node2" href="$fk20_8cuh.html#a29747b9a4d2253c1fbb59c46dba78aea" title="toeplitz_coefficients_fft + xext_fft &#45;&gt; hext_fft" alt="" coords="29,5,119,32"/>
+<area shape="rect" id="node3" href="$g1test__fft_8cu.html#a8e16fe8db92c8d570b898f873fac6159" title="Kernel wrapper for device addition." alt="" coords="5,56,143,83"/>
+</map>

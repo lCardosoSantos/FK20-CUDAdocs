@@ -1,0 +1,9 @@
+<map id="FpTestInv" name="FpTestInv">
+<area shape="rect" id="node1" title="Test for multiplicative inverse mod p in Fp." alt="" coords="5,81,89,108"/>
+<area shape="rect" id="node2" href="$fp_8cu.html#a9f39806f63fc829f70443320f4550a96" title="Converts uint64_t[6] to fp_t. After this operation, z represents x mod p." alt="" coords="137,5,253,32"/>
+<area shape="rect" id="node3" href="$fp_8cuh.html#ab5a78291aab070ee4f11d8399a40df99" title="Calculates the multiplicative inverse of x and stores in z." alt="" coords="164,56,227,83"/>
+<area shape="rect" id="node5" href="$fp_8cuh.html#a9f82a12248e7c53ac9d166e25e083bba" title="Multiplies two Fp residues x and y, stores in z." alt="" coords="301,107,368,133"/>
+<area shape="rect" id="node7" href="$fp_8cuh.html#a89b41553cb5af629dd8ac33b71d03ee1" title="Narrow reduction of a residue modulo p, reducing to the canonical representation." alt="" coords="148,157,243,184"/>
+<area shape="rect" id="node4" href="$fp_8cuh.html#aa84fc3bc6fd35779512d8f14938df96d" title="Copy from x into z." alt="" coords="302,5,367,32"/>
+<area shape="rect" id="node6" href="$fp_8cuh.html#a74e253977f8412787ed920e5a07de414" title="Computes the square of the residue x modulo p and stores it in z." alt="" coords="303,56,366,83"/>
+</map>

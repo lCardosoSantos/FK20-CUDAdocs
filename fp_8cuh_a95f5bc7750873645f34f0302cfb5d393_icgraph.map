@@ -1,0 +1,4 @@
+<map id="fp_nonzero" name="fp_nonzero">
+<area shape="rect" id="node1" title="Check if the reduced input x is different from zero." alt="" coords="131,5,225,32"/>
+<area shape="rect" id="node2" href="$g1_8cuh.html#a9b93bf6935700d263448a12cb9cc1269" title="Computes the negative of the point p. Due to negation map automorphism on Elliptic Curves in Weierstr..." alt="" coords="5,5,83,32"/>
+</map>

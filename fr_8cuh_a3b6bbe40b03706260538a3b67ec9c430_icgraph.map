@@ -1,0 +1,4 @@
+<map id="fr_sqr" name="fr_sqr">
+<area shape="rect" id="node1" title="Squares the value in z as a residue modulo r, and stores back into z." alt="" coords="112,5,171,32"/>
+<area shape="rect" id="node2" href="$fr_8cuh.html#ac601c06e698074f5d4e58608274f8476" title="Calculates the multiplicative inverse of z, and stores back." alt="" coords="5,5,64,32"/>
+</map>

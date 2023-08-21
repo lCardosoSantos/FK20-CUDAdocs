@@ -1,0 +1,6 @@
+<map id="fp_inv" name="fp_inv">
+<area shape="rect" id="node1" title="Calculates the multiplicative inverse of x and stores in z." alt="" coords="5,56,68,83"/>
+<area shape="rect" id="node2" href="$fp_8cuh.html#aa84fc3bc6fd35779512d8f14938df96d" title="Copy from x into z." alt="" coords="117,5,182,32"/>
+<area shape="rect" id="node3" href="$fp_8cuh.html#a9f82a12248e7c53ac9d166e25e083bba" title="Multiplies two Fp residues x and y, stores in z." alt="" coords="116,56,183,83"/>
+<area shape="rect" id="node4" href="$fp_8cuh.html#a74e253977f8412787ed920e5a07de414" title="Computes the square of the residue x modulo p and stores it in z." alt="" coords="118,107,181,133"/>
+</map>

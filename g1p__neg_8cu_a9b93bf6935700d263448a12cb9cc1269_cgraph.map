@@ -1,0 +1,7 @@
+<map id="g1p_neg" name="g1p_neg">
+<area shape="rect" id="node1" title="Computes the negative of the point p. Due to negation map automorphism on Elliptic Curves in Weierstr..." alt="" coords="5,31,83,57"/>
+<area shape="rect" id="node2" href="$fp_8cuh.html#a0f6ea769bc2df8dd7c4a0b55ae8aefcf" title="Compute an additive inverse of a residue x modulo p. Stores in z. Subtracts x from the highest multip..." alt="" coords="145,5,211,32"/>
+<area shape="rect" id="node3" href="$fp_8cuh.html#a95f5bc7750873645f34f0302cfb5d393" title="Check if the reduced input x is different from zero." alt="" coords="131,56,225,83"/>
+<area shape="rect" id="node4" href="$fp_8cuh.html#aa84fc3bc6fd35779512d8f14938df96d" title="Copy from x into z." alt="" coords="288,31,353,57"/>
+<area shape="rect" id="node5" href="$fp_8cuh.html#a89b41553cb5af629dd8ac33b71d03ee1" title="Narrow reduction of a residue modulo p, reducing to the canonical representation." alt="" coords="273,81,368,108"/>
+</map>

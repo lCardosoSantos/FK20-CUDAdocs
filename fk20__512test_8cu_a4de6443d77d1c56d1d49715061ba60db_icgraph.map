@@ -1,0 +1,4 @@
+<map id="fullTest_512" name="fullTest_512">
+<area shape="rect" id="node1" title="Executes many FK20 computations on a single row, with a check on each step. A computation failure wil..." alt="" coords="108,5,208,32"/>
+<area shape="rect" id="node2" href="$fk20__512test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Executes a many&#45;row tests on FK20. Behavior is similar to fk20test.cu but using many GPU blocks,..." alt="" coords="5,5,60,32"/>
+</map>

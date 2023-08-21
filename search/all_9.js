@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['main_386',['main',['../fft_test_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;fftTest.cu'],['../fk20__512test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;fk20_512test.cu'],['../fk20benchmark_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;fk20benchmark.cu'],['../fk20test_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;fk20test.cu'],['../fk20test__poly2toeplitz__coefficients_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;fk20test_poly2toeplitz_coefficients.cu'],['../fk20test__poly2toeplitz__coefficients__fft_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;fk20test_poly2toeplitz_coefficients_fft.cu'],['../fptest_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;fptest.cu'],['../frtest_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;frtest.cu'],['../g1test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;g1test.cu']]],
+  ['mallocsync_387',['MALLOCSYNC',['../fk20benchmark_8cu.html#a20828006ed01ea29a6f1bde01e67db45',1,'fk20benchmark.cu']]],
+  ['max_5fdegree_5fpoly_388',['MAX_DEGREE_POLY',['../namespacetest__fft.html#ada40d001b4683b63bd7d9d08db316298',1,'test_fft']]]
+];

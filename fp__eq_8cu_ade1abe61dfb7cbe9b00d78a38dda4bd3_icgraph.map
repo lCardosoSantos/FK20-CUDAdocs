@@ -1,0 +1,51 @@
+<map id="fp_eq" name="fp_eq">
+<area shape="rect" id="node1" title="Compares two residues modulo p." alt="" coords="1251,233,1309,260"/>
+<area shape="rect" id="node2" href="$fp_8cuh.html#a0c4a481946542c2d262b361c9e3700ef" title="Compares two fp_t residues." alt="" coords="1121,233,1187,260"/>
+<area shape="rect" id="node5" href="$fptest__cmp_8cu.html#ab50f86ef663e84179ddb39fdca3c6bfc" title="Test for the comparison function in Fp; checks for inconsistencies in the following properties:" alt="" coords="921,5,1015,32"/>
+<area shape="rect" id="node14" href="$g1_8cuh.html#ac5e28dd7ae9a2d9f751792ffa5688346" title="Check if the value stored in p is a valid point on the G1 curve." alt="" coords="1105,537,1203,564"/>
+<area shape="rect" id="node3" href="$fptest__add_8cu.html#abfc772410295adcd309501a61369756c" title="Test for addition in Fp." alt="" coords="923,208,1013,235"/>
+<area shape="rect" id="node6" href="$fptest__add_8cu.html#acbe50a6524e6e4288042aa5596559ad7" title="Test for the commutative property of addition in Fp." alt="" coords="879,259,1057,285"/>
+<area shape="rect" id="node7" href="$fptest__mul_8cu.html#ae6923d3429ae184854b98376b366fb60" title="Test for the commutative property of addition." alt="" coords="879,309,1057,336"/>
+<area shape="rect" id="node8" href="$fptest__fibonacci_8cu.html#abda81ae89575b2d141b6b78699782167" title="Test addition and subtraction in Fp using a fibonacci sequence (chain dependency) from 1 to ITERATION..." alt="" coords="905,360,1031,387"/>
+<area shape="rect" id="node9" href="$fptest__mma_8cu.html#ab2e3e579feb073f06a10812dc57d94f7" title="Test for multiply&#45;multiply&#45;add. Compare with current standalone implementation of multiplication adn ..." alt="" coords="919,411,1017,437"/>
+<area shape="rect" id="node10" href="$fptest__mulconst_8cu.html#a9cf3b3ea99e2b90e54dae275f3bf9424" title="Test self consistency in multiplication by constant:" alt="" coords="905,461,1031,488"/>
+<area shape="rect" id="node11" href="$fptest__sqr_8cu.html#aab87718273605d36b6696eb2068abef0" title="Test for squaring on Fp. Checks for self consistency:" alt="" coords="925,56,1011,83"/>
+<area shape="rect" id="node12" href="$fptest__sqr_8cu.html#a1ee9909ec8b31c309f33b385db6d12cb" title="Test for squaring on Fp. Checks for self consistency:" alt="" coords="921,107,1015,133"/>
+<area shape="rect" id="node13" href="$fptest__sub_8cu.html#aafc8d0db47deda034734d2a2020f4ada" title="Test for subtraction in Fp." alt="" coords="924,157,1012,184"/>
+<area shape="rect" id="node4" href="$fptest_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Run tests on Fp functions." alt="" coords="754,233,809,260"/>
+<area shape="rect" id="node15" href="$g1_8cuh.html#a738cb164cdffd441d2aa86d5329cd0bc" title="G1 point doubling, with write back: p=2*p." alt="" coords="931,512,1005,539"/>
+<area shape="rect" id="node16" href="$fk20test__kat_8cu.html#a037e7452df3229f7ee8a774360c1606e" title=" " alt="" coords="913,563,1023,589"/>
+<area shape="rect" id="node17" href="$g1_8cuh.html#a98781687d03d5e738745dcb61e0fc1f8" title="p ← k·p Point multiplication by scalar, in projective coordinates. That result is stored back into p." alt="" coords="929,613,1007,640"/>
+<area shape="rect" id="node18" href="$fk20_8cuh.html#a29747b9a4d2253c1fbb59c46dba78aea" title="toeplitz_coefficients_fft + xext_fft &#45;&gt; hext_fft" alt="" coords="736,689,827,716"/>
+<area shape="rect" id="node19" href="$g1_8cuh.html#a7381959ac0f320fc9e64af9dfef6250b" title="FFT of size 512 over G1 with projective coordinates. Input and output arrays may overlap...." alt="" coords="748,512,815,539"/>
+<area shape="rect" id="node42" href="$fk20test__kat_8cu.html#af4e2901a3856a43df5d0d5b3ab1b9f22" title=" " alt="" coords="732,639,831,665"/>
+<area shape="rect" id="node43" href="$g1_8cuh.html#a07141ff993bd6fc7da467a63b5c319ca" title="Inverse FFT of size 512 over G1 with projective coordinates. Input and output arrays may overlap...." alt="" coords="748,588,815,615"/>
+<area shape="rect" id="node20" href="$fk20_8cu.html#ae57127876663f7b7e4870baa8e9c601e" title="h &#45;&gt; h_fft" alt="" coords="557,436,660,463"/>
+<area shape="rect" id="node21" href="$fk20_8cuh.html#ab86790c4888c05259b0f76570d7cbfc4" title="hext_fft &#45;&gt; h_fft" alt="" coords="536,639,681,665"/>
+<area shape="rect" id="node26" href="$fk20_8cu.html#ad9ea5b299631f609aa1cbfe0af74e1e3" title="setup &#45;&gt; xext_fft" alt="" coords="533,385,684,412"/>
+<area shape="rect" id="node27" href="$fk20test__kat_8cu.html#aa089930801a6a86e41049da9bb54f1c9" title=" " alt="" coords="552,537,665,564"/>
+<area shape="rect" id="node28" href="$g1_8cuh.html#a2541358351ce3857143d05acd83cf14f" title="wrapper for g1p_fft: FFT for arrays of g1p_t with length 512" alt="" coords="545,487,672,513"/>
+<area shape="rect" id="node22" href="$fk20test_8cuh.html#a6e91d377665333877b570b295e6ee017" title="Test for fk20_hext_fft2h_fft: hext_fft &#45;&gt; h_fft." alt="" coords="343,943,453,969"/>
+<area shape="rect" id="node25" href="$fk20__512test_8cu.html#adb9f3c1247f7f8e9273f99f4a545b57d" title="Test for hext_fft2h_fft_512: hext_fft &#45;&gt; h_fft." alt="" coords="328,892,468,919"/>
+<area shape="rect" id="node23" href="$fk20test_8cuh.html#a320efd4c0fb8e729400941e21ea983aa" title=" " alt="" coords="133,791,237,817"/>
+<area shape="rect" id="node24" href="$fk20test_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,715,60,741"/>
+<area shape="rect" id="node29" href="$fk20_8cuh.html#a428f2dcc8b77723e4def6f684f790ceb" title="polynomial + xext_fft &#45;&gt; h_fft This function is a wrapper for the full FK20 computation,..." alt="" coords="337,284,459,311"/>
+<area shape="rect" id="node32" href="$fk20test_8cuh.html#a219d5d803685ea0067dfa4908a620e11" title=" " alt="" coords="363,639,433,665"/>
+<area shape="rect" id="node34" href="$fk20__512test_8cu.html#a4de6443d77d1c56d1d49715061ba60db" title="Executes many FK20 computations on a single row, with a check on each step. A computation failure wil..." alt="" coords="348,385,448,412"/>
+<area shape="rect" id="node35" href="$fk20__512test_8cu.html#a537be6501bbccff0654c4ca1b2fd83ae" title="Similar to fullTest, but polynomial is has changes done to it. The function checks for false&#45;positive..." alt="" coords="311,436,485,463"/>
+<area shape="rect" id="node36" href="$fk20test_8cuh.html#a8d2cfb1e9fc0723c345460c7ad438df1" title=" " alt="" coords="325,588,471,615"/>
+<area shape="rect" id="node37" href="$g1test_8cuh.html#af69268816d41d8e3c477c70066f7bfcf" title="Test for FFT and IFFT of points on the G1 curve. Checks self consistency with the following propertie..." alt="" coords="353,335,443,361"/>
+<area shape="rect" id="node39" href="$fk20test_8cuh.html#a46da7589b1c0420a0b16d8b3216d7be9" title="Test for g1p_fft: h &#45;&gt; h_fft." alt="" coords="365,487,431,513"/>
+<area shape="rect" id="node40" href="$fk20__512test_8cu.html#a5557a90ff06e60795ad4bae5c7ccc262" title="Test for g1p_fft: h &#45;&gt; h_fft&quot;." alt="" coords="136,233,235,260"/>
+<area shape="rect" id="node41" href="$fk20benchmark_8cu.html#a8cd0ecc09d4a9a4c418184789229b4f6" title="Executes a test of FK20 with one block for each row. At the end, compare if the calculated h_fft is t..." alt="" coords="343,537,453,564"/>
+<area shape="rect" id="node30" href="$fk20__512test_8cu.html#a30719348d219c529d6b43175cecd8427" title="Test for fk20_poly2h_fft: polynomial &#45;&gt; h_fft." alt="" coords="108,284,263,311"/>
+<area shape="rect" id="node31" href="$fk20__512test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Executes a many&#45;row tests on FK20. Behavior is similar to fk20test.cu but using many GPU blocks,..." alt="" coords="5,411,60,437"/>
+<area shape="rect" id="node33" href="$fk20test_8cuh.html#a3f978e98c96e45785d60ed0d96689521" title=" " alt="" coords="131,639,240,665"/>
+<area shape="rect" id="node38" href="$g1test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Test for points in G1." alt="" coords="158,335,213,361"/>
+<area shape="rect" id="node44" href="$fk20_8cu.html#a831e7b7d95cdaf1032d1904977b749d9" title="hext_fft &#45;&gt; hext" alt="" coords="536,689,681,716"/>
+<area shape="rect" id="node45" href="$g1_8cuh.html#aa99a1625656fd85f384889a39bf8067f" title="wrapper for g1p_ift: inverse FFT for arrays of g1p_t with length 512" alt="" coords="545,588,672,615"/>
+<area shape="rect" id="node46" href="$fk20test_8cuh.html#a060c821b96d17d587425957709eec75b" title="Test for g1p_ift: h_fft &#45;&gt; h." alt="" coords="365,791,431,817"/>
+<area shape="rect" id="node47" href="$fk20__512test_8cu.html#ae55f2f625c11ad82f77b72b3a42c47ca" title="Test for g1p_ift: h_fft &#45;&gt; h." alt="" coords="136,740,235,767"/>
+<area shape="rect" id="node48" href="$fk20test_8cuh.html#af23866ba0e5030142bbb04cbcfd4da05" title="Test for g1p_ift: hext_fft &#45;&gt; h." alt="" coords="354,841,442,868"/>
+<area shape="rect" id="node49" href="$fk20__512test_8cu.html#a9853234576c41f6afaa313c55cca4a4b" title="Test for g1p_ift: hext_fft &#45;&gt; h." alt="" coords="126,689,245,716"/>
+</map>

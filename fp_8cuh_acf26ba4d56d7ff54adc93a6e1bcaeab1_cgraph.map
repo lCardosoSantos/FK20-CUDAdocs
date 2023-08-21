@@ -1,0 +1,5 @@
+<map id="fp_isone" name="fp_isone">
+<area shape="rect" id="node1" title="Checks if the residue x modulo p is congruent to one." alt="" coords="5,31,83,57"/>
+<area shape="rect" id="node2" href="$fp_8cuh.html#aa84fc3bc6fd35779512d8f14938df96d" title="Copy from x into z." alt="" coords="145,5,211,32"/>
+<area shape="rect" id="node3" href="$fp_8cuh.html#a89b41553cb5af629dd8ac33b71d03ee1" title="Narrow reduction of a residue modulo p, reducing to the canonical representation." alt="" coords="131,56,225,83"/>
+</map>

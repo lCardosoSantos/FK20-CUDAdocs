@@ -1,0 +1,5 @@
+<map id="g1p_add_wrapper" name="g1p_add_wrapper">
+<area shape="rect" id="node1" title="Kernel wrapper for device addition." alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$g1_8cuh.html#a62f5e933b08ca744b5e8c60f09d397ec" title="Computes the sum of two points q into p, using projective coordinates. and stores in p." alt="" coords="191,5,268,32"/>
+<area shape="rect" id="node3" href="$g1_8cuh.html#a9d6fd1daf56b90adb23fc5ac3705d6fb" title="Copy from q into p." alt="" coords="191,56,267,83"/>
+</map>

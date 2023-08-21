@@ -1,0 +1,7 @@
+<map id="fr_eq" name="fr_eq">
+<area shape="rect" id="node1" title="Compares two residues modulo r." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$fr_8cuh.html#a8abf9d8ad4b633144fcc0c6956d14056" title="Copy from x into z." alt="" coords="249,5,311,32"/>
+<area shape="rect" id="node3" href="$fr_8cuh.html#a78b8df6518ee14cdf2cdc025abf902fa" title="Checks if the residue x modulo f is congruent to zero." alt="" coords="108,56,187,83"/>
+<area shape="rect" id="node5" href="$fr_8cuh.html#a06643f48ada0bf9fa0a1bb1e605def94" title="Calculates the difference of two residues modulo p and stores it into z." alt="" coords="116,107,179,133"/>
+<area shape="rect" id="node4" href="$fr_8cuh.html#aa53ac2a9b28c7f128a9ee8e106abcf3c" title="Reduced the value in fr_t to the field modulus." alt="" coords="235,56,325,83"/>
+</map>

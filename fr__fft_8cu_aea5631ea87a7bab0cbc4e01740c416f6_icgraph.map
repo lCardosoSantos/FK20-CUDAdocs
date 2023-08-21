@@ -1,0 +1,18 @@
+<map id="fr_fft" name="fr_fft">
+<area shape="rect" id="node1" title="FFT over Fr." alt="" coords="687,183,740,209"/>
+<area shape="rect" id="node2" href="$fr_8cuh.html#abf810ba4f2672a8d319e6cdbfc8ba68e" title="wrapper for fr_fft: FFT for fr_t[512]" alt="" coords="525,183,639,209"/>
+<area shape="rect" id="node3" href="$fk20_8cuh.html#a428f2dcc8b77723e4def6f684f790ceb" title="polynomial + xext_fft &#45;&gt; h_fft This function is a wrapper for the full FK20 computation,..." alt="" coords="343,259,465,285"/>
+<area shape="rect" id="node6" href="$frtest_8cuh.html#a4ded3b3b54bb394b4168cb5f92ec72b4" title="Tests fft and inverse fft over Fr using KAT." alt="" coords="363,107,445,133"/>
+<area shape="rect" id="node8" href="$fk20test_8cuh.html#a219d5d803685ea0067dfa4908a620e11" title=" " alt="" coords="369,5,439,32"/>
+<area shape="rect" id="node11" href="$fk20__512test_8cu.html#a4de6443d77d1c56d1d49715061ba60db" title="Executes many FK20 computations on a single row, with a check on each step. A computation failure wil..." alt="" coords="145,208,245,235"/>
+<area shape="rect" id="node12" href="$fk20__512test_8cu.html#a537be6501bbccff0654c4ca1b2fd83ae" title="Similar to fullTest, but polynomial is has changes done to it. The function checks for false&#45;positive..." alt="" coords="108,157,283,184"/>
+<area shape="rect" id="node13" href="$fk20test_8cuh.html#a8d2cfb1e9fc0723c345460c7ad438df1" title=" " alt="" coords="331,56,477,83"/>
+<area shape="rect" id="node14" href="$g1test_8cuh.html#af69268816d41d8e3c477c70066f7bfcf" title="Test for FFT and IFFT of points on the G1 curve. Checks self consistency with the following propertie..." alt="" coords="359,309,449,336"/>
+<area shape="rect" id="node16" href="$fk20benchmark_8cu.html#a8cd0ecc09d4a9a4c418184789229b4f6" title="Executes a test of FK20 with one block for each row. At the end, compare if the calculated h_fft is t..." alt="" coords="349,360,459,387"/>
+<area shape="rect" id="node4" href="$fk20__512test_8cu.html#a30719348d219c529d6b43175cecd8427" title="Test for fk20_poly2h_fft: polynomial &#45;&gt; h_fft." alt="" coords="118,259,273,285"/>
+<area shape="rect" id="node5" href="$fk20__512test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Executes a many&#45;row tests on FK20. Behavior is similar to fk20test.cu but using many GPU blocks,..." alt="" coords="5,208,60,235"/>
+<area shape="rect" id="node7" href="$frtest_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Self test of the functions over Fr." alt="" coords="168,107,223,133"/>
+<area shape="rect" id="node9" href="$fk20test_8cuh.html#a3f978e98c96e45785d60ed0d96689521" title=" " alt="" coords="141,31,250,57"/>
+<area shape="rect" id="node10" href="$fk20test_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node15" href="$g1test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Test for points in G1." alt="" coords="168,309,223,336"/>
+</map>

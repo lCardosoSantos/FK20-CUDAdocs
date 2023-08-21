@@ -1,0 +1,44 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Run tests on Fp functions." alt="" coords="5,1145,60,1172"/>
+<area shape="rect" id="node2" href="$fptest__add_8cu.html#abfc772410295adcd309501a61369756c" title="Test for addition in Fp." alt="" coords="163,867,252,893"/>
+<area shape="rect" id="node13" href="$fptest__distributive_8cu.html#a5e0496a330791042d2a9a388c7c7ed59" title="Check the distributive property of multiplication in Fp (left of addition):" alt="" coords="113,1272,302,1299"/>
+<area shape="rect" id="node14" href="$fptest__distributive_8cu.html#a9bcfe749848eccce53a68325bf12f5fe" title="Check the distributive property of multiplication in Fp (right of addition):" alt="" coords="108,1323,307,1349"/>
+<area shape="rect" id="node15" href="$fptest__add_8cu.html#a5a6a5d0f76f5cae224ee3bf9732471ba" title="Test for the associative property of addition in Fp." alt="" coords="125,1373,289,1400"/>
+<area shape="rect" id="node16" href="$fptest__mul_8cu.html#ac9751e412353a94511a5a3d104014517" title="Test for the associative property of multiplication." alt="" coords="126,1424,289,1451"/>
+<area shape="rect" id="node17" href="$fptest__cmp_8cu.html#ab50f86ef663e84179ddb39fdca3c6bfc" title="Test for the comparison function in Fp; checks for inconsistencies in the following properties:" alt="" coords="160,208,255,235"/>
+<area shape="rect" id="node18" href="$fptest__add_8cu.html#acbe50a6524e6e4288042aa5596559ad7" title="Test for the commutative property of addition in Fp." alt="" coords="118,639,297,665"/>
+<area shape="rect" id="node19" href="$fptest__mul_8cu.html#ae6923d3429ae184854b98376b366fb60" title="Test for the commutative property of addition." alt="" coords="119,512,296,539"/>
+<area shape="rect" id="node21" href="$fptest__fibonacci_8cu.html#abda81ae89575b2d141b6b78699782167" title="Test addition and subtraction in Fp using a fibonacci sequence (chain dependency) from 1 to ITERATION..." alt="" coords="145,360,270,387"/>
+<area shape="rect" id="node24" href="$fptest__inv_8cu.html#a6f2303acedfea539e4906eb119ae0194" title="Test for multiplicative inverse mod p in Fp." alt="" coords="165,1171,249,1197"/>
+<area shape="rect" id="node28" href="$fptest__kat_8cu.html#a443d8f6ed04d07620e43e08ba220d2cb" title="Test for fp functions using KAT." alt="" coords="163,1475,252,1501"/>
+<area shape="rect" id="node29" href="$fptest__mma_8cu.html#ab2e3e579feb073f06a10812dc57d94f7" title="Test for multiply&#45;multiply&#45;add. Compare with current standalone implementation of multiplication adn ..." alt="" coords="159,1120,256,1147"/>
+<area shape="rect" id="node31" href="$fptest__mul_8cu.html#a175206903f14095d2a9ab7d1c8d830af" title="Multiplication test, comparing with the native uint64_t multiplication." alt="" coords="163,1221,251,1248"/>
+<area shape="rect" id="node32" href="$fptest__mulconst_8cu.html#a9cf3b3ea99e2b90e54dae275f3bf9424" title="Test self consistency in multiplication by constant:" alt="" coords="145,968,270,995"/>
+<area shape="rect" id="node36" href="$fptest__sqr_8cu.html#aab87718273605d36b6696eb2068abef0" title="Test for squaring on Fp. Checks for self consistency:" alt="" coords="165,1069,250,1096"/>
+<area shape="rect" id="node37" href="$fptest__sqr_8cu.html#a1ee9909ec8b31c309f33b385db6d12cb" title="Test for squaring on Fp. Checks for self consistency:" alt="" coords="161,740,254,767"/>
+<area shape="rect" id="node38" href="$fptest__sub_8cu.html#aafc8d0db47deda034734d2a2020f4ada" title="Test for subtraction in Fp." alt="" coords="163,588,251,615"/>
+<area shape="rect" id="node39" href="$fptest__distributive_8cu.html#a23b44659333666e34c8ff4b62793b392" title="Check the distributive property of multiplication in Fp (left of subtraction):" alt="" coords="113,1525,301,1552"/>
+<area shape="rect" id="node40" href="$fptest__distributive_8cu.html#a10816d046eb559a5e02cccd016099b8f" title="Check the distributive property of multiplication in Fp (right of subtraction):" alt="" coords="108,1576,307,1603"/>
+<area shape="rect" id="node41" href="$fptest_8cu.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="Variable initialization for the tests." alt="" coords="186,1677,229,1704"/>
+<area shape="rect" id="node3" href="$fp_8cuh.html#a38d4eadff7890b835dceb28d2adb7358" title="Computes the sum of two residues x and y modulo p and stores it in z. Device only function." alt="" coords="379,917,446,944"/>
+<area shape="rect" id="node4" href="$fp_8cuh.html#aa84fc3bc6fd35779512d8f14938df96d" title="Copy from x into z." alt="" coords="777,588,843,615"/>
+<area shape="rect" id="node5" href="$fp_8cuh.html#a0c4a481946542c2d262b361c9e3700ef" title="Compares two fp_t residues." alt="" coords="379,512,446,539"/>
+<area shape="rect" id="node10" href="$fp_8cu.html#a2704620d529ee4e06657ff58de45866d" title="Prints the canonical representation of x to STDOUT." alt="" coords="377,613,449,640"/>
+<area shape="rect" id="node11" href="$fp_8cuh.html#a55a8ca49fdfdfdaaf7864c4c01917366" title="Multiplies x by 2 and stores the result into z." alt="" coords="383,867,442,893"/>
+<area shape="rect" id="node12" href="$fp_8cuh.html#aabd562bd67fa39ed0329294e1784582a" title="Multiplies x by 3 and stores the result into z." alt="" coords="383,816,442,843"/>
+<area shape="rect" id="node6" href="$fp_8cuh.html#ade1abe61dfb7cbe9b00d78a38dda4bd3" title="Compares two residues modulo p." alt="" coords="523,360,581,387"/>
+<area shape="rect" id="node7" href="$fp_8cuh.html#a45eab81e60385635ab4732360f94ec91" title="Checks if the residue x modulo p is congruent to zero." alt="" coords="633,360,715,387"/>
+<area shape="rect" id="node9" href="$fp_8cuh.html#aff96ec3f32ad9c0419911604d5fefe44" title="Calculates the difference of two residues modulo p and stores it into z." alt="" coords="641,259,707,285"/>
+<area shape="rect" id="node8" href="$fp_8cuh.html#a89b41553cb5af629dd8ac33b71d03ee1" title="Narrow reduction of a residue modulo p, reducing to the canonical representation." alt="" coords="763,335,857,361"/>
+<area shape="rect" id="node20" href="$fp_8cuh.html#a9f82a12248e7c53ac9d166e25e083bba" title="Multiplies two Fp residues x and y, stores in z." alt="" coords="519,1424,585,1451"/>
+<area shape="rect" id="node22" href="$fp_8cuh.html#acf26ba4d56d7ff54adc93a6e1bcaeab1" title="Checks if the residue x modulo p is congruent to one." alt="" coords="635,5,713,32"/>
+<area shape="rect" id="node23" href="$fp_8cu.html#a7d8b3ebbffbf49eda4a3755dc41e01d9" title="Sets z to one." alt="" coords="379,157,446,184"/>
+<area shape="rect" id="node25" href="$fp_8cu.html#a9f39806f63fc829f70443320f4550a96" title="Converts uint64_t[6] to fp_t. After this operation, z represents x mod p." alt="" coords="355,1627,471,1653"/>
+<area shape="rect" id="node26" href="$fp_8cuh.html#ab5a78291aab070ee4f11d8399a40df99" title="Calculates the multiplicative inverse of x and stores in z." alt="" coords="381,1525,444,1552"/>
+<area shape="rect" id="node27" href="$fp_8cuh.html#a74e253977f8412787ed920e5a07de414" title="Computes the square of the residue x modulo p and stores it in z." alt="" coords="521,1272,583,1299"/>
+<area shape="rect" id="node30" href="$fp_8cuh.html#a1a105c78d0067f9bd927524a9c4d6955" title="Fp multiply&#45;multiply&#45;add. Fast execution of z = (v*w + x*y) mod p The double&#45;wide products are added ..." alt="" coords="375,1323,451,1349"/>
+<area shape="rect" id="node33" href="$fp_8cuh.html#a5d44bd034dfdd40057aaf66b13bc8518" title="Multiplies the residue mod p x by 12 and stores the result into z." alt="" coords="379,1120,446,1147"/>
+<area shape="rect" id="node34" href="$fp_8cuh.html#a6fe5404e5c3813ab6944ed160eea3adb" title="Multiplies x by 4 and stores the result into z." alt="" coords="383,1171,442,1197"/>
+<area shape="rect" id="node35" href="$fp_8cuh.html#a4d3c99f0008c54a2b125b217f33199cb" title="Multiplies x by 8 and stores the result into z." alt="" coords="383,1069,442,1096"/>
+<area shape="rect" id="node42" href="$test_8cu.html#aac77414fbb8e0eda3f63b1297dede600" title="Sets a global variable to true if the STDOUT is a terminal. Needs to be done like so because while a ..." alt="" coords="379,1728,447,1755"/>
+</map>

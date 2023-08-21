@@ -1,0 +1,5 @@
+<map id="fr_isone" name="fr_isone">
+<area shape="rect" id="node1" title="Checks if the residue x modulo f is congruent to one." alt="" coords="5,31,80,57"/>
+<area shape="rect" id="node2" href="$fr_8cuh.html#a8abf9d8ad4b633144fcc0c6956d14056" title="Copy from x into z." alt="" coords="142,5,205,32"/>
+<area shape="rect" id="node3" href="$fr_8cuh.html#aa53ac2a9b28c7f128a9ee8e106abcf3c" title="Reduced the value in fr_t to the field modulus." alt="" coords="128,56,219,83"/>
+</map>

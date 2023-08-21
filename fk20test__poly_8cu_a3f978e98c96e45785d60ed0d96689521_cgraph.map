@@ -1,0 +1,37 @@
+<map id="FK20TestPoly" name="FK20TestPoly">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,115,163"/>
+<area shape="rect" id="node2" href="$fk20test__poly_8cu.html#a20fe1b1a151b98d9cf31c46196ee80ee" title="Test for fk20_msm: Toeplitz_coefficients+xext_fft &#45;&gt; hext_fft." alt="" coords="191,5,310,32"/>
+<area shape="rect" id="node3" href="$fk20test__poly_8cu.html#a7b7dc6f9c9f8b6f5806868f782a1d514" title="Test for fk20_poly2h_fft: polynomial &#45;&gt; h_fft." alt="" coords="173,56,328,83"/>
+<area shape="rect" id="node4" href="$fk20test__poly_8cu.html#a63bc14300c47fa5f3a7b3c057ce76338" title="Test for fk20_poly2hext_fft: polynomial &#45;&gt; hext_fft." alt="" coords="163,107,339,133"/>
+<area shape="rect" id="node7" href="$fk20test__poly_8cu.html#abc7cdb5b3666a9bc56534e5171ee86f0" title="Test for fk20_poly2toeplitz_coefficients: polynomial &#45;&gt; toeplitz_coefficients." alt="" coords="179,158,322,199"/>
+<area shape="rect" id="node8" href="$fk20test__poly_8cu.html#a219d5d803685ea0067dfa4908a620e11" title=" " alt="" coords="216,224,285,251"/>
+<area shape="rect" id="node34" href="$fk20test__poly_8cu.html#a8d2cfb1e9fc0723c345460c7ad438df1" title=" " alt="" coords="177,275,324,301"/>
+<area shape="rect" id="node5" href="$fk20_8cuh.html#a4424c11ff3fd880896859776bc7449f7" title="polynomial + xext_fft &#45;&gt; hext_fft" alt="" coords="387,107,531,133"/>
+<area shape="rect" id="node6" href="$g1_8cuh.html#a15fe76c5e38260582200a074d6507f2c" title="Set p to the point&#45;at&#45;infinity (0,1,0)" alt="" coords="579,107,649,133"/>
+<area shape="rect" id="node9" href="$fr_8cuh.html#abf810ba4f2672a8d319e6cdbfc8ba68e" title="wrapper for fr_fft: FFT for fr_t[512]" alt="" coords="402,275,515,301"/>
+<area shape="rect" id="node14" href="$g1_8cuh.html#a2541358351ce3857143d05acd83cf14f" title="wrapper for g1p_fft: FFT for arrays of g1p_t with length 512" alt="" coords="395,173,522,200"/>
+<area shape="rect" id="node32" href="$g1_8cuh.html#aa99a1625656fd85f384889a39bf8067f" title="wrapper for g1p_ift: inverse FFT for arrays of g1p_t with length 512" alt="" coords="395,224,522,251"/>
+<area shape="rect" id="node10" href="$fr__fft_8cu.html#aea5631ea87a7bab0cbc4e01740c416f6" title="FFT over Fr." alt="" coords="587,300,641,327"/>
+<area shape="rect" id="node11" href="$fr_8cuh.html#a7f0553970ddea3d8c8823910fdea2d5c" title="Computes the sum and the difference of the arguments, storing back into the arguments: (x,..." alt="" coords="704,275,791,301"/>
+<area shape="rect" id="node12" href="$fr_8cuh.html#a8abf9d8ad4b633144fcc0c6956d14056" title="Copy from x into z." alt="" coords="716,325,779,352"/>
+<area shape="rect" id="node13" href="$fr_8cuh.html#abaa90fa0475f5ddc32a4aee93de4e33b" title="Multiply two residues module r z and x, stores back into z." alt="" coords="715,376,779,403"/>
+<area shape="rect" id="node15" href="$g1p__fft_8cu.html#a7381959ac0f320fc9e64af9dfef6250b" title="FFT of size 512 over G1 with projective coordinates. Input and output arrays may overlap...." alt="" coords="581,173,647,200"/>
+<area shape="rect" id="node16" href="$g1_8cuh.html#a0f32bdb263c5864d6fd46a567e9e1f96" title="Stores the sum and difference of p and q into p and q. Projective p and q, p,q ← p+q,..." alt="" coords="697,123,797,149"/>
+<area shape="rect" id="node17" href="$g1_8cuh.html#a9d6fd1daf56b90adb23fc5ac3705d6fb" title="Copy from q into p." alt="" coords="709,173,785,200"/>
+<area shape="rect" id="node18" href="$g1_8cuh.html#a98781687d03d5e738745dcb61e0fc1f8" title="p ← k·p Point multiplication by scalar, in projective coordinates. That result is stored back into p." alt="" coords="708,224,787,251"/>
+<area shape="rect" id="node19" href="$fp_8cu.html#a38ff11c3699e6c472a5b310a4d0962ea" title="Sets z to zero." alt="" coords="859,199,929,225"/>
+<area shape="rect" id="node20" href="$g1_8cuh.html#ac5e28dd7ae9a2d9f751792ffa5688346" title="Check if the value stored in p is a valid point on the G1 curve." alt="" coords="845,249,943,276"/>
+<area shape="rect" id="node21" href="$fp_8cuh.html#a38d4eadff7890b835dceb28d2adb7358" title="Computes the sum of two residues x and y modulo p and stores it in z. Device only function." alt="" coords="998,72,1065,99"/>
+<area shape="rect" id="node22" href="$fp_8cuh.html#aa84fc3bc6fd35779512d8f14938df96d" title="Copy from x into z." alt="" coords="1264,173,1329,200"/>
+<area shape="rect" id="node23" href="$fp_8cuh.html#ade1abe61dfb7cbe9b00d78a38dda4bd3" title="Compares two residues modulo p." alt="" coords="1002,275,1061,301"/>
+<area shape="rect" id="node24" href="$fp_8cuh.html#a45eab81e60385635ab4732360f94ec91" title="Checks if the residue x modulo p is congruent to zero." alt="" coords="1120,224,1201,251"/>
+<area shape="rect" id="node27" href="$fp_8cuh.html#a9f82a12248e7c53ac9d166e25e083bba" title="Multiplies two Fp residues x and y, stores in z." alt="" coords="998,325,1065,352"/>
+<area shape="rect" id="node28" href="$fp_8cuh.html#a74e253977f8412787ed920e5a07de414" title="Computes the square of the residue x modulo p and stores it in z." alt="" coords="1000,376,1063,403"/>
+<area shape="rect" id="node29" href="$fp_8cuh.html#a6fe5404e5c3813ab6944ed160eea3adb" title="Multiplies x by 4 and stores the result into z." alt="" coords="1002,427,1061,453"/>
+<area shape="rect" id="node30" href="$g1p__ispoint_8cu.html#aefda685f50e444161695d95042c312d5" title="Check if the value stored in p is the the/any point at infinity. This implementation uses (0,..." alt="" coords="991,173,1072,200"/>
+<area shape="rect" id="node26" href="$fp_8cuh.html#aff96ec3f32ad9c0419911604d5fefe44" title="Calculates the difference of two residues modulo p and stores it into z." alt="" coords="1128,275,1193,301"/>
+<area shape="rect" id="node25" href="$fp_8cuh.html#a89b41553cb5af629dd8ac33b71d03ee1" title="Narrow reduction of a residue modulo p, reducing to the canonical representation." alt="" coords="1249,224,1344,251"/>
+<area shape="rect" id="node31" href="$fp_8cuh.html#acf26ba4d56d7ff54adc93a6e1bcaeab1" title="Checks if the residue x modulo p is congruent to one." alt="" coords="1122,173,1199,200"/>
+<area shape="rect" id="node33" href="$g1p__fft_8cu.html#a07141ff993bd6fc7da467a63b5c319ca" title="Inverse FFT of size 512 over G1 with projective coordinates. Input and output arrays may overlap...." alt="" coords="581,224,647,251"/>
+<area shape="rect" id="node35" href="$fk20__512test_8cu.html#ab95eb1889add338aae7127e9ff072a8b" title="swap elements at positions multiple of step. Nondestructive, call a second time to undo the changes" alt="" coords="413,325,504,352"/>
+</map>

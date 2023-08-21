@@ -1,0 +1,5 @@
+<map id="fr_x8" name="fr_x8">
+<area shape="rect" id="node1" title="Multiply z by 8, and stores in z, with weak reduction." alt="" coords="277,5,332,32"/>
+<area shape="rect" id="node2" href="$frtest__mulconst_8cu.html#aa528975311db670a1f658a498220adfa" title="Test multiply by constant on Fr:" alt="" coords="108,5,229,32"/>
+<area shape="rect" id="node3" href="$frtest_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Self test of the functions over Fr." alt="" coords="5,5,60,32"/>
+</map>

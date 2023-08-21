@@ -1,0 +1,11 @@
+<map id="FrTestCommutativeAdd" name="FrTestCommutativeAdd">
+<area shape="rect" id="node1" title="Test the cumulative property of addition." alt="" coords="5,107,180,133"/>
+<area shape="rect" id="node2" href="$fr_8cuh.html#aaeef506ae3eb09b0586eb48e9c7d77ad" title="Computes the sum of two residues x and z modulo r and stores it in z. Device only function." alt="" coords="228,5,291,32"/>
+<area shape="rect" id="node3" href="$fr_8cuh.html#a8abf9d8ad4b633144fcc0c6956d14056" title="Copy from x into z." alt="" coords="582,171,645,197"/>
+<area shape="rect" id="node4" href="$fr_8cuh.html#a4f11be4124fc653c718d01acc42cf7f2" title="Compares two fr_t residues." alt="" coords="228,132,291,159"/>
+<area shape="rect" id="node9" href="$fr_8cu.html#a48d3ace037073f6d394152bee7f40b71" title="prints the canonical representation of x to STDOUT." alt="" coords="446,259,515,285"/>
+<area shape="rect" id="node5" href="$fr_8cuh.html#a4e45802fc36909ab3c8a71f662689cfa" title="Compares two residues modulo r." alt="" coords="339,132,393,159"/>
+<area shape="rect" id="node6" href="$fr_8cuh.html#a78b8df6518ee14cdf2cdc025abf902fa" title="Checks if the residue x modulo f is congruent to zero." alt="" coords="441,208,520,235"/>
+<area shape="rect" id="node8" href="$fr_8cuh.html#a06643f48ada0bf9fa0a1bb1e605def94" title="Calculates the difference of two residues modulo p and stores it into z." alt="" coords="449,107,512,133"/>
+<area shape="rect" id="node7" href="$fr_8cuh.html#aa53ac2a9b28c7f128a9ee8e106abcf3c" title="Reduced the value in fr_t to the field modulus." alt="" coords="568,233,659,260"/>
+</map>

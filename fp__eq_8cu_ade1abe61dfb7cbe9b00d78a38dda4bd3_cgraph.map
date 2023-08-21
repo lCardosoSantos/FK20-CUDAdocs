@@ -1,0 +1,7 @@
+<map id="fp_eq" name="fp_eq">
+<area shape="rect" id="node1" title="Compares two residues modulo p." alt="" coords="5,56,64,83"/>
+<area shape="rect" id="node2" href="$fp_8cuh.html#a45eab81e60385635ab4732360f94ec91" title="Checks if the residue x modulo p is congruent to zero." alt="" coords="112,31,193,57"/>
+<area shape="rect" id="node5" href="$fp_8cuh.html#aff96ec3f32ad9c0419911604d5fefe44" title="Calculates the difference of two residues modulo p and stores it into z." alt="" coords="120,81,185,108"/>
+<area shape="rect" id="node3" href="$fp_8cuh.html#aa84fc3bc6fd35779512d8f14938df96d" title="Copy from x into z." alt="" coords="256,5,321,32"/>
+<area shape="rect" id="node4" href="$fp_8cuh.html#a89b41553cb5af629dd8ac33b71d03ee1" title="Narrow reduction of a residue modulo p, reducing to the canonical representation." alt="" coords="241,56,336,83"/>
+</map>

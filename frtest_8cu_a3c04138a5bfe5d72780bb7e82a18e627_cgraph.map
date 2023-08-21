@@ -1,0 +1,41 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Self test of the functions over Fr." alt="" coords="5,463,60,490"/>
+<area shape="rect" id="node2" href="$frtest__distributive_8cu.html#ab7e0e335289f2f94a4755c94def10cc5" title="Check the distributive property of multiplication in Fr (left of addition):" alt="" coords="113,83,298,110"/>
+<area shape="rect" id="node3" href="$frtest__distributive_8cu.html#ab6e43a4b4d36b7860df16059e2ca5626" title="Check the distributive property of multiplication in Fr (right of addition):" alt="" coords="108,134,303,161"/>
+<area shape="rect" id="node4" href="$frtest__addsub_8cu.html#a76d9aced54d0cff4e6c5bdc291667839" title="Test for the fr_addsub kernel." alt="" coords="151,185,260,211"/>
+<area shape="rect" id="node5" href="$frtest__add_8cu.html#ab406ed03ae14830f43cb31b87b9a3d17" title="Test the associative property of addition." alt="" coords="125,235,285,262"/>
+<area shape="rect" id="node6" href="$frtest__mul_8cu.html#a781f233a3a055d636fc10a6f067bf78b" title="Test of the associative property of multiplication (x*y)*z == x*(y*z)" alt="" coords="126,286,285,313"/>
+<area shape="rect" id="node7" href="$frtest__cmp_8cu.html#a871de10e2f93c77672721a62951f876a" title="Test for the comparison function; checks for inconsistencies in the following properties:" alt="" coords="160,387,251,414"/>
+<area shape="rect" id="node14" href="$frtest__add_8cu.html#a6372e698dff3983b1e875cf08c097d97" title="Test the cumulative property of addition." alt="" coords="118,590,293,617"/>
+<area shape="rect" id="node17" href="$frtest__mul_8cu.html#aba1ae7a1fb9958d713a549e881a8dcb2" title="Test of the commutative property of multiplication x*y == y*x." alt="" coords="119,438,292,465"/>
+<area shape="rect" id="node19" href="$frtest_8cuh.html#a4ded3b3b54bb394b4168cb5f92ec72b4" title="Tests fft and inverse fft over Fr using KAT." alt="" coords="164,337,247,363"/>
+<area shape="rect" id="node25" href="$frtest__fibonacci_8cu.html#ad97d52b82c26e99df17a0809f8c14ffb" title="Test addition and subtraction in Fr using a fibonacci sequence (chain dependency) from 1 to ITERATION..." alt="" coords="145,489,266,515"/>
+<area shape="rect" id="node28" href="$frtest__kat_8cu.html#a07f15fbd95c26f365caa61c17531fce2" title="tests using KAT for: fr_cpy, fr_reduce4, fr_eq, fr_neq, fr_neg, fr_x2, fr_x3, fr_add,..." alt="" coords="163,717,248,743"/>
+<area shape="rect" id="node29" href="$frtest__mulconst_8cu.html#aa528975311db670a1f658a498220adfa" title="Test multiply by constant on Fr:" alt="" coords="145,666,266,693"/>
+<area shape="rect" id="node35" href="$frtest__sub_8cu.html#a2a6bd849267a975091246edd81663a04" title="Test of subtraction x == y&#45;(y&#45;x)" alt="" coords="163,767,247,794"/>
+<area shape="rect" id="node36" href="$frtest__distributive_8cu.html#a577f2ab6ba920f77e436daef90a0a5ea" title="Check the distributive property of multiplication in Fr (left of subtraction):" alt="" coords="113,818,297,845"/>
+<area shape="rect" id="node37" href="$frtest__distributive_8cu.html#af0c1a7f9d8d7295d5ffea5e22b025914" title="Check the distributive property of multiplication in Fr (right of subtraction):" alt="" coords="108,869,303,895"/>
+<area shape="rect" id="node38" href="$frtest_8cu.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="initialize test values" alt="" coords="184,970,227,997"/>
+<area shape="rect" id="node8" href="$fr_8cuh.html#a8abf9d8ad4b633144fcc0c6956d14056" title="Copy from x into z." alt="" coords="763,337,826,363"/>
+<area shape="rect" id="node9" href="$fr_8cuh.html#a4e45802fc36909ab3c8a71f662689cfa" title="Compares two residues modulo r." alt="" coords="512,387,567,414"/>
+<area shape="rect" id="node13" href="$fr_8cuh.html#a4f11be4124fc653c718d01acc42cf7f2" title="Compares two fr_t residues." alt="" coords="376,387,439,414"/>
+<area shape="rect" id="node10" href="$fr_8cuh.html#a78b8df6518ee14cdf2cdc025abf902fa" title="Checks if the residue x modulo f is congruent to zero." alt="" coords="619,387,697,414"/>
+<area shape="rect" id="node12" href="$fr_8cuh.html#a06643f48ada0bf9fa0a1bb1e605def94" title="Calculates the difference of two residues modulo p and stores it into z." alt="" coords="627,438,689,465"/>
+<area shape="rect" id="node11" href="$fr_8cuh.html#aa53ac2a9b28c7f128a9ee8e106abcf3c" title="Reduced the value in fr_t to the field modulus." alt="" coords="749,641,840,667"/>
+<area shape="rect" id="node15" href="$fr_8cuh.html#aaeef506ae3eb09b0586eb48e9c7d77ad" title="Computes the sum of two residues x and z modulo r and stores it in z. Device only function." alt="" coords="376,691,439,718"/>
+<area shape="rect" id="node16" href="$fr_8cu.html#a48d3ace037073f6d394152bee7f40b71" title="prints the canonical representation of x to STDOUT." alt="" coords="373,590,442,617"/>
+<area shape="rect" id="node18" href="$fr_8cuh.html#abaa90fa0475f5ddc32a4aee93de4e33b" title="Multiply two residues module r z and x, stores back into z." alt="" coords="626,134,690,161"/>
+<area shape="rect" id="node20" href="$fr_8cuh.html#abf810ba4f2672a8d319e6cdbfc8ba68e" title="wrapper for fr_fft: FFT for fr_t[512]" alt="" coords="351,83,464,110"/>
+<area shape="rect" id="node23" href="$fr_8cuh.html#ac7091cde352483e51fa09119e9176b35" title="wrapper for fr_ift: inverse FFT for fr_t[512]" alt="" coords="351,33,463,59"/>
+<area shape="rect" id="node21" href="$fr__fft_8cu.html#aea5631ea87a7bab0cbc4e01740c416f6" title="FFT over Fr." alt="" coords="513,83,566,110"/>
+<area shape="rect" id="node22" href="$fr_8cuh.html#a7f0553970ddea3d8c8823910fdea2d5c" title="Computes the sum and the difference of the arguments, storing back into the arguments: (x,..." alt="" coords="615,33,701,59"/>
+<area shape="rect" id="node24" href="$fr__fft_8cu.html#ae4ccd980840d9d286f91be4f07dcb47a" title="Inverse FFT for fr_t[512]." alt="" coords="513,33,565,59"/>
+<area shape="rect" id="node26" href="$fr_8cuh.html#a912c7835f9151e3294434ac6f656f0da" title="Checks if the residue x modulo f is congruent to one." alt="" coords="621,641,695,667"/>
+<area shape="rect" id="node27" href="$fr_8cu.html#ab87111e8edb1812fd061c1d12c0ad178" title="Sets the value of z to one." alt="" coords="376,489,439,515"/>
+<area shape="rect" id="node30" href="$fr_8cuh.html#a1e404d0dd86d479854d2ad47f49f7f9f" title="Multiply the residue mod r z by 12 with weak reduction." alt="" coords="376,894,439,921"/>
+<area shape="rect" id="node31" href="$fr_8cuh.html#a4485604279abcb4d54e39d656cb41439" title="Multiply z by 2, and stores in z, with weak reduction." alt="" coords="380,945,435,971"/>
+<area shape="rect" id="node32" href="$fr_8cuh.html#a6a2b0ab376b64fb53b8e27d6c1109c15" title="Multiply z by 3, and stores in z, with weak reduction." alt="" coords="380,995,435,1022"/>
+<area shape="rect" id="node33" href="$fr_8cuh.html#a22ed0336bd87e463b99e9414b037a611" title="Multiply z by 4, and stores in z, with weak reduction." alt="" coords="380,793,435,819"/>
+<area shape="rect" id="node34" href="$fr_8cuh.html#a4e17bb02d9a984bd5cbc4b8eb95056f7" title="Multiply z by 8, and stores in z, with weak reduction." alt="" coords="380,843,435,870"/>
+<area shape="rect" id="node39" href="$test_8cu.html#aac77414fbb8e0eda3f63b1297dede600" title="Sets a global variable to true if the STDOUT is a terminal. Needs to be done like so because while a ..." alt="" coords="373,1046,441,1073"/>
+</map>

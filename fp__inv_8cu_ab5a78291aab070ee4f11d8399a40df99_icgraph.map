@@ -1,0 +1,5 @@
+<map id="fp_inv" name="fp_inv">
+<area shape="rect" id="node1" title="Calculates the multiplicative inverse of x and stores in z." alt="" coords="240,5,303,32"/>
+<area shape="rect" id="node2" href="$fptest__inv_8cu.html#a6f2303acedfea539e4906eb119ae0194" title="Test for multiplicative inverse mod p in Fp." alt="" coords="108,5,192,32"/>
+<area shape="rect" id="node3" href="$fptest_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Run tests on Fp functions." alt="" coords="5,5,60,32"/>
+</map>

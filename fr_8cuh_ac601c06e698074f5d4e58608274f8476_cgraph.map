@@ -1,0 +1,6 @@
+<map id="fr_inv" name="fr_inv">
+<area shape="rect" id="node1" title="Calculates the multiplicative inverse of z, and stores back." alt="" coords="5,56,64,83"/>
+<area shape="rect" id="node2" href="$fr_8cuh.html#a8abf9d8ad4b633144fcc0c6956d14056" title="Copy from x into z." alt="" coords="113,5,175,32"/>
+<area shape="rect" id="node3" href="$fr_8cuh.html#abaa90fa0475f5ddc32a4aee93de4e33b" title="Multiply two residues module r z and x, stores back into z." alt="" coords="112,56,176,83"/>
+<area shape="rect" id="node4" href="$fr_8cuh.html#a3b6bbe40b03706260538a3b67ec9c430" title="Squares the value in z as a residue modulo r, and stores back into z." alt="" coords="115,107,173,133"/>
+</map>
